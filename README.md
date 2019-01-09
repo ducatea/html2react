@@ -12,3 +12,8 @@ $ yarn global add file:html2react
 or
 $ npm -g i file:html2react
 ```
+
+
+```bash
+html2react file.html -o src/components -e jsx
+```
